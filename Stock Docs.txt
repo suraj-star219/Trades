@@ -1,0 +1,144 @@
+Registration:
+{
+    "email":"yashe@gmail.com",
+    "full_name":"Yashe",
+    "phone":"8745965142",
+    "password":"Yashe@15",
+    "password2":"Yashe@15"
+}
+
+Login:
+{
+    "email":"yashe@gmail.com",
+    "password":"Yashe@15"
+}
+
+Profile:
+{
+"full_name": "Taara",
+        "phone": "(987) 456-6325",
+        "alt_phone": "(987) 456-3254",
+        "gender": "Female",
+        "DOB": "2022-12-14",
+        "profile_photo": "http://127.0.0.1:8000/register/image/4-flower-wallpaper.jpg",
+        "address": "Nagar",
+        "city": "Abad",
+        "state": "MH",
+        "pincode": 431001,
+
+}
+
+Change Password:
+{
+    "password": 
+   
+    "password2": 
+}
+
+Register Email:
+
+{
+    "email": 
+}
+
+Verify Email:
+{
+"Email":
+"otp":
+}
+
+Register Phone Number:
+{
+"phone":
+}
+
+Verify Phone Number:
+{
+"phone":
+"otp":
+}
+
+Bank Detail:
+{
+    "bank_name": "Central Bank Of India",
+    "account_number": "985475632541",
+    "re_enter_account_number": "985475632541",
+    "ifsc": "HDFC002211",
+    "branch": "Nagar"
+}
+
+Nominee:
+
+{
+    "first_name": "abc",
+    "last_name": "abcd",
+    "email": "abcd@gmail.com",
+    "mobile": 874569324,
+    "date_of_birth": "30/07/2000",
+    "address": "abcd",
+    "nominee_proof_identy": "http://127.0.0.1:8000/4-flower-wallpaper.jpg",
+    "relation_with_nominee": "Student",
+    "percentage_of_share": "50"
+}
+
+KYC:
+{
+   
+    "aadharcard_no": "987456985475",
+    "name": 1,
+    "date_of_birth": "30/04/1987",
+    "gender": "Female",
+    "marritul_status": "Unmarried",
+    "profession": "Student",
+    "sub_profession": "std",
+    "annual_income": "50000",
+    "fathers_name": "Rudra",
+    "mothers_name": "Meera",
+    "permanent_address": "nagar",
+    "pancard_no": "412541"
+}
+
+Watchlist:
+{
+    "company_name": "abcd",
+    "user": 1,
+    "watchlist1": "cmd",
+    "watchlist2": "avbd",
+    "created_at": "2022-12-20"
+}
+
+Order:
+{
+    "user": 1,
+    "lists": 1,
+    "stock": "NSE",
+    "quantity": 2,
+    "price": 50000.0,
+    "ltp": 200,
+    "validity": "Day",
+    "created_at": "2022-12-20",
+    "order_set_date": "2022-12-20T14:02:04.372772Z",
+    "order_reach_date": "2022-12-20T19:32:00Z"
+}
+
+Order Options:
+{
+    "amount": 2000.0,
+    "status": "Working",
+    "trade_type": "Stop loss",
+    "stoploss": 1000.0,
+    "take_profit": 300.0,
+    "oreder_reach_date": "2022-12-20T19:32:00Z"
+}
+
+Porfolio:
+{
+    "amount": 5000,
+    "quantity": 2,
+    "email": "damini@gmail.com",
+    "product_name": "abcd",
+    "types": "Market",
+    "order": "BUY",
+    "made_on": "2022-12-20T14:04:53.051072Z",
+    "made_by": 1
+}
